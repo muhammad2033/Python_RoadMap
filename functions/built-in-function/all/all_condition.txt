@@ -1,0 +1,7 @@
+Condition	                            Return Value
+
+All values are true	                    True
+All values are false	                    False
+One value is true (others are false)	    False
+One value is false (others are true)	    False
+Empty Iterable	                            True

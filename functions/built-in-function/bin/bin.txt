@@ -1,0 +1,4 @@
+what is __index__ i python ?
+
+
+__index__ Converts a zero-dimensional integer array to a Python int object. This method is called to implement operator. index().
